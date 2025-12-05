@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi,+I'm+Astra-Pi;SysAdmin+%26+Cybersecurity;Linux+%7C+Bash+%7C+Python;Welcome+to+my+Profile!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi,+I'm+Astra-Pi;SysAdmin+%26+Cybersecurity;Linux+%7C+Bash+%7C+Python;Welcome+to+my+Profile!" alt="Typing SVG" />
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
   ---
 
-  ### 👨‍💻 Sobre mí
+  ### Sobre mí
   
   > *Especialista en Ciberseguridad y SysAdmin Linux/Windows*
   
