@@ -8,9 +8,9 @@
 
   ### 👨‍💻 Sobre mí
   
-  > *Especialista en Ciberseguridad, SysAdmin Linux/Windows y Analista Forense.*
+  > *Especialista en Ciberseguridad y SysAdmin Linux/Windows*
   
-  Apasionado por Linux, la Seguridad Ofensiva y el Open Source. Actualmente me encuentro trabajando en el desarrollo de herramientas de OSINT y automatización con Bash, mientras continúo profundizando mis conocimientos en Hacking Ético Avanzado y Análisis de Malware.
+  Apasionado por Linux, la Seguridad Ofensiva y el Open Source, mientras continúo profundizando mis conocimientos en Hacking Ético y Análisis de Malware.
 
   ---
 
