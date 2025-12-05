@@ -8,9 +8,9 @@
 
   ### 👨‍💻 Sobre mí
   
-  > *Especialista en Ciberseguridad y SysAdmin Linux/Windows*
+  > *Especialista en Ciberseguridad y SysAdmin Linux/Windows.*
   
-  Apasionado por Linux, la Seguridad Ofensiva y el Open Source. Actualmente me encuentro trabajando en el desarrollo de herramientas de OSINT y automatización con Bash, mientras continúo profundizando mis conocimientos en Hacking Ético Avanzado y Análisis de Malware.
+  Apasionado por Linux y la Seguridad Ofensiva. OSINT y automatización con Bash, mientras continúo profundizando mis conocimientos en Hacking Ético y Análisis de Malware.
 
   ---
 
@@ -29,17 +29,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=astra-pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" />
   </div>
-
-  <br/>
-
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=astra-pi&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-  </div>
-
-  ---
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=astra-pi&label=Profile%20Views&color=blue&style=flat-square" alt="Views" />
-  </p>
 
 </div>
