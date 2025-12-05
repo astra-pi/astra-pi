@@ -28,26 +28,16 @@
   </div>
 
   <br/>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=astra-pi&label=Profile%20Views&color=blue&style=plastic" alt="Profile Views">
 
-    <a href="https://github.com/astra-pi?tab=followers">
-      <img src="https://img.shields.io/github/followers/astra-pi?label=Followers&style=plastic&color=blue" alt="Followers">
-    </a>
-  </p>
+  <div align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=astra-pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Langs" />
+  </div>
 
-  <p align="center">
-    <a href="https://github.com/astra-pi">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=astra-pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cachebuster=2" alt="Stats" />
-    </a>
-    <a href="https://github.com/astra-pi">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cachebuster=2" alt="Langs" />
-    </a>
-  </p>
+  <br/>
 
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=astra-pi&theme=tokyonight&hide_border=true&background=0D1117&hide_current_streak=true&cachebuster=2" alt="Streak" />
-  </p>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=astra-pi&theme=tokyonight&hide_border=true&background=0D1117&hide_current_streak=true&v=1" alt="Streak" />
+  </div>
 
 </div>
