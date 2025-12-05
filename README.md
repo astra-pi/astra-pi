@@ -30,8 +30,8 @@
   <br/>
 
   <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=astra-pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" alt="Langs" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=astra-pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cachebuster=forceupdate12345" alt="Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cachebuster=forceupdate12345" alt="Langs" />
   </div>
 
   <br/>
