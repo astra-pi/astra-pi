@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi,+I'm+Gianfranco+Vega;SysAdmin+%26+Cybersecurity;Linux+%7C+Bash+%7C+Python;Welcome+to+my+Profile!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi,+I'm+Astra-Pi;SysAdmin+%26+Cybersecurity;Linux+%7C+Bash+%7C+Python;Welcome+to+my+Profile!+🚀" alt="Typing SVG" />
 
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
@@ -8,10 +8,9 @@
 
   ### 👨‍💻 Sobre mí
   
-  > *Ciberseguridad, SysAdmin Linux/Windows y Analista Forense.*
+  > *Especialista en Ciberseguridad y SysAdmin Linux/Windows*
   
- **Aprendiendo:** Hacking Ético Avanzado y Análisis de Malware.  
- **Fanático de:** Linux, Automatización y Open Source.
+  Apasionado por Linux, la Seguridad Ofensiva y el Open Source. Actualmente me encuentro trabajando en el desarrollo de herramientas de OSINT y automatización con Bash, mientras continúo profundizando mis conocimientos en Hacking Ético Avanzado y Análisis de Malware.
 
   ---
 
@@ -27,9 +26,8 @@
   <br/>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=astra-pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Astra-Pi Stats" />
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=astra-pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" />
   </div>
 
   <br/>
@@ -42,14 +40,6 @@
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=astra-pi&label=Profile%20Views&color=blue&style=flat-square" alt="Views" />
-  </p>
-
-  <p align="center">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/astra-pi" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
   </p>
 
 </div>
