@@ -1,33 +1,43 @@
-✌️ Hi I'm Astra-Pi. Welcome to my GitHub.
+<div align="center">
 
-✨**astra-pi/SysAdmin-Cybersecurity**✨
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=Hi,+I'm+Astra-Pi;SysAdmin+%26+Cybersecurity;Linux+%7C+Bash+%7C+Python;Welcome+to+my+Profile!" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **OSINT Tools & Bash Automation**
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-![Cyber Security](https://i.pinimg.com/originals/1c/56/db/1c56db32a329767df5667958999863fc.gif)
-
-- 🌱 I am very interested in **Linux Systems & Network Security**. I really love Open Source and mixing it with my passion for Ethical Hacking gives me a hunger for knowledge.
-
-![Linux Terminal](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
-- 🐧 Fanatic of: **Linux, Offensive Security & Digital Forensics**
-
-![Matrix Code](https://media.giphy.com/media/A06UFEx8jxEwU/giphy.gif)
-
-<br>
-
-<h2 align="center">Hi I'm <br> Astra-Pi</h2>
-<h4 align="center">I am a Cybersecurity Specialist and I advise you not to fall into cybercrime. Do your tests in controlled environments or with the written permission of your client.</h4>
-
-##
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=astra-pi&label=Profile%20Views&color=ff69b4&style=plastic" alt="Views">
+  <br/><br/>
   
-  <img src="https://img.shields.io/github/stars/astra-pi?color=ff69b4&label=Stargazers&style=plastic" alt="Stars">
-  <img src="https://img.shields.io/github/followers/astra-pi?color=ff69b4&label=Followers&style=plastic" alt="Followers">
-</p>
+  ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astra-pi&theme=nightowl&hide_border=true" alt="Streak Stats" />
-</p>
+  ### Sobre mí
+  
+  > *Especialista en Ciberseguridad y SysAdmin Linux/Windows*
+  
+  Apasionado por Linux, la Seguridad Ofensiva y el Open Source, mientras continúo profundizando mis conocimientos en Hacking Ético y Análisis de Malware.
+
+  ---
+  
+  <br/>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=plastic&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali-557C94?style=plastic&logo=kali-linux&logoColor=white" />
+  </p>
+
+  <br/>
+
+  <p align="center">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=astra-pi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-pi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" />
+  </p>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=astra-pi&theme=tokyonight&hide_border=true&background=0D1117&hide_current_streak=true" alt="Streak" />
+  </p>
+
+</div>
