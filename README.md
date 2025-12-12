@@ -12,7 +12,7 @@
   
   > *Especialista en Ciberseguridad y SysAdmin Linux/Windows*
   
-  Apasionado por Linux, la Seguridad Ofensiva y el Open Source, mientras continúo profundizando mis conocimientos en Hacking Ético y Análisis de Malware.
+  Apasionado por Linux y la Seguridad Ofensiva, mientras continúo profundizando mis conocimientos en Hacking Ético y Análisis de Malware.
 
   ---
   
